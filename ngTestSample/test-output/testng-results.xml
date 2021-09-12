@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20784" started-at="2021-04-21T18:50:12Z" finished-at="2021-04-21T18:50:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20784" started-at="2021-04-21T18:50:12Z" finished-at="2021-04-21T18:50:32Z">
+      <class name="testScripts.automationTsng">
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:testScripts.automationTsng@f8c1ddd]" name="setupTest" is-config="true" duration-ms="4386" started-at="2021-04-21T14:50:12Z" finished-at="2021-04-21T14:50:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="getbeforeEachTest()[pri:0, instance:testScripts.automationTsng@f8c1ddd]" name="getbeforeEachTest" is-config="true" duration-ms="1066" started-at="2021-04-21T14:50:16Z" finished-at="2021-04-21T14:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbeforeEachTest -->
+        <test-method status="PASS" signature="getspecial()[pri:0, instance:testScripts.automationTsng@f8c1ddd]" name="getspecial" duration-ms="686" started-at="2021-04-21T14:50:17Z" finished-at="2021-04-21T14:50:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getspecial -->
+        <test-method status="PASS" signature="getbeforeEachTest()[pri:0, instance:testScripts.automationTsng@f8c1ddd]" name="getbeforeEachTest" is-config="true" duration-ms="913" started-at="2021-04-21T14:50:18Z" finished-at="2021-04-21T14:50:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbeforeEachTest -->
+        <test-method status="PASS" signature="getnewproducts()[pri:1, instance:testScripts.automationTsng@f8c1ddd]" name="getnewproducts" duration-ms="858" started-at="2021-04-21T14:50:19Z" finished-at="2021-04-21T14:50:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getnewproducts -->
+        <test-method status="PASS" signature="getbeforeEachTest()[pri:0, instance:testScripts.automationTsng@f8c1ddd]" name="getbeforeEachTest" is-config="true" duration-ms="1699" started-at="2021-04-21T14:50:20Z" finished-at="2021-04-21T14:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbeforeEachTest -->
+        <test-method status="PASS" signature="getbestSellers()[pri:2, instance:testScripts.automationTsng@f8c1ddd]" name="getbestSellers" duration-ms="896" started-at="2021-04-21T14:50:21Z" finished-at="2021-04-21T14:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbestSellers -->
+        <test-method status="PASS" signature="getbeforeEachTest()[pri:0, instance:testScripts.automationTsng@f8c1ddd]" name="getbeforeEachTest" is-config="true" duration-ms="851" started-at="2021-04-21T14:50:22Z" finished-at="2021-04-21T14:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbeforeEachTest -->
+        <test-method status="PASS" signature="getourStores()[pri:3, instance:testScripts.automationTsng@f8c1ddd]" name="getourStores" duration-ms="65" started-at="2021-04-21T14:50:23Z" finished-at="2021-04-21T14:50:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getourStores -->
+        <test-method status="PASS" signature="getbeforeEachTest()[pri:0, instance:testScripts.automationTsng@f8c1ddd]" name="getbeforeEachTest" is-config="true" duration-ms="645" started-at="2021-04-21T14:50:23Z" finished-at="2021-04-21T14:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbeforeEachTest -->
+        <test-method status="PASS" signature="getContactus()[pri:4, instance:testScripts.automationTsng@f8c1ddd]" name="getContactus" duration-ms="762" started-at="2021-04-21T14:50:24Z" finished-at="2021-04-21T14:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getContactus -->
+        <test-method status="PASS" signature="getbeforeEachTest()[pri:0, instance:testScripts.automationTsng@f8c1ddd]" name="getbeforeEachTest" is-config="true" duration-ms="579" started-at="2021-04-21T14:50:24Z" finished-at="2021-04-21T14:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbeforeEachTest -->
+        <test-method status="PASS" signature="getTermsandCondition()[pri:5, instance:testScripts.automationTsng@f8c1ddd]" name="getTermsandCondition" duration-ms="1459" started-at="2021-04-21T14:50:25Z" finished-at="2021-04-21T14:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTermsandCondition -->
+        <test-method status="PASS" signature="getbeforeEachTest()[pri:0, instance:testScripts.automationTsng@f8c1ddd]" name="getbeforeEachTest" is-config="true" duration-ms="578" started-at="2021-04-21T14:50:27Z" finished-at="2021-04-21T14:50:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbeforeEachTest -->
+        <test-method status="PASS" signature="getaboutUs()[pri:6, instance:testScripts.automationTsng@f8c1ddd]" name="getaboutUs" duration-ms="952" started-at="2021-04-21T14:50:27Z" finished-at="2021-04-21T14:50:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getaboutUs -->
+        <test-method status="PASS" signature="getbeforeEachTest()[pri:0, instance:testScripts.automationTsng@f8c1ddd]" name="getbeforeEachTest" is-config="true" duration-ms="1468" started-at="2021-04-21T14:50:28Z" finished-at="2021-04-21T14:50:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbeforeEachTest -->
+        <test-method status="PASS" signature="getSiteMap()[pri:7, instance:testScripts.automationTsng@f8c1ddd]" name="getSiteMap" duration-ms="2037" started-at="2021-04-21T14:50:30Z" finished-at="2021-04-21T14:50:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSiteMap -->
+        <test-method status="PASS" signature="EndTest()[pri:0, instance:testScripts.automationTsng@f8c1ddd]" name="EndTest" is-config="true" duration-ms="841" started-at="2021-04-21T14:50:32Z" finished-at="2021-04-21T14:50:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+      </class> <!-- testScripts.automationTsng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
